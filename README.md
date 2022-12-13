@@ -15,8 +15,6 @@ https://drive.google.com/file/d/14SNpN2wuy45TL20VPBKSQmJO3M6D07ea/view
 
 9:35	OpenShift DataFoundation Business View
 
-
-
 10:25	CEPH Introduction
 
 10:40	CloudObjectGateway (NOBAA) Introduction 
@@ -36,6 +34,8 @@ https://github.com/alfbach/odf-nano
 12:00	LUNCH Break
 
 13:30	ODF Technical - BackUp & DR
+
+https://drive.google.com/file/d/1_jXPxADqClgDZ1FyFYCozzh58eOkdFYp/view
 
 14:30	BREAK
 
