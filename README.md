@@ -11,7 +11,11 @@ Dec 2022
 
 9:45	OpenShift Data Foundation Overview
 
+https://drive.google.com/file/d/14SNpN2wuy45TL20VPBKSQmJO3M6D07ea/view
+
 9:35	OpenShift DataFoundation Business View
+
+
 
 10:25	CEPH Introduction
 
@@ -20,6 +24,8 @@ Dec 2022
 10:42	BREAK
 
 11:00	Install ODF Live on AWS Cluster
+
+live install https://drive.google.com/file/d/1oxOO8oANqF-sCych2cLX2SwRRnUOHAm7/view
 
 11:30	ODF Nano on CRC
 
